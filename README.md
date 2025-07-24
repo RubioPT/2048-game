@@ -26,7 +26,9 @@ A simple and fun browser-based implementation of the classic 2048 game built wit
 
 2048-game/
 ├── index.html
+
 ├── style.css
+
 └── script.js
 
 ## 📬 Contact
