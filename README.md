@@ -16,11 +16,6 @@ A simple and fun browser-based implementation of the classic 2048 game built wit
 - Clean and minimalist user interface
 - Score tracking
 
-## 🚀 Live Demo
-
-You can play it online here:  
-[👉 Click to Play](https://rubiopt.github.io/2048-game/) *(replace with your real GitHub Pages link)*
-
 ## 🛠️ Technologies Used
 
 - HTML5
