@@ -35,4 +35,3 @@ A simple and fun browser-based implementation of the classic 2048 game built wit
 ## 📬 Contact
 
 If you have any suggestions or feedback, feel free to open an issue or reach out!
-
