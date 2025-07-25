@@ -8,6 +8,7 @@ A simple and fun browser-based implementation of the classic 2048 game built wit
 - When two tiles with the same number touch, they merge into one.
 - Your goal is to create a tile with the number **2048**.
 - Try to beat your high score!
+- https://rubiopt.github.io/2048-game
 
 ## 🌟 Features
 
