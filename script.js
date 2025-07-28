@@ -172,6 +172,10 @@ document.addEventListener("touchend", e => {
   }
 });
 
+document.getElementById("up-btn").addEventListener("click", () => move("up"));
+document.getElementById("down-btn").addEventListener("click", () => move("down"));
+document.getElementById("left-btn").addEventListener("click", () => move("left"));
+document.getElementById("right-btn").addEventListener("click", () => move("right"));
 
 createGrid();
 generateTile();
